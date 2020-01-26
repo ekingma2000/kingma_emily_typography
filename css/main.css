@@ -9,6 +9,7 @@
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
+/*Base Font*/
 h2 {
 	font-family: "Bebas Neue", cursive;
 	font-size: 54px;
@@ -28,6 +29,7 @@ p{
 	font-size: 15px;
 	line-height: 20px;
 }
+/*About Section*/
 .about{
 	background-color: #fadadd;
 	height: 550px;
@@ -44,6 +46,7 @@ p{
 	margin-top: 20px;
 	margin-left: 100px;
 }
+/*Why Muskoka Section*/
 .why{
 	background-color: #212b31;
 	height: 550px;
@@ -71,6 +74,7 @@ p{
 	padding-left: 100px;
 	padding-top: 130px;
 }
+/*Our Values Section*/
 .values{
 		background-color: #fadadd;
 	height: 670px;
@@ -118,4 +122,40 @@ p{
 .thirsty{
 	padding-left: 200px;
 	padding-top: 50px;
+}
+/*Our Beers Section*/
+.beer{
+	background-color: #212b31;
+	height: 200px;
+}
+.beer h2{
+	color: white;
+	text-align: center;
+	padding-top: 80px
+}
+.theBeers{
+	background-color: #fadadd;
+	height: 1000px;
+}
+.theBeers img{
+	padding-left: 40px;
+	width: 400px;
+}
+.theBeers h4{
+	font-size: 24px;
+	display: table-row;
+	text-align: center;
+	line-height: 100px;
+}
+.theBeers .columnOne{
+	display: table-cell;
+	padding-left: 10px;
+}
+.theBeers .columnTwo{
+	display: table-cell;
+	padding-left: 50px;
+}
+.theBeers .columnThree{
+	display: table-cell;
+	padding-left: 70px;
 }

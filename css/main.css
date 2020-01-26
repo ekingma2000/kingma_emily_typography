@@ -1,1 +1,121 @@
 @charset "UTF-8";
+
+.logo{
+	background-color: #212b31;
+	height: 250px;
+}
+.logo img{
+	padding-left: 530px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+h2 {
+	font-family: "Bebas Neue", cursive;
+	font-size: 54px;
+	letter-spacing: 2px;
+}
+h3{
+	font-family: "Gelasio", serif;
+	font-size: 27px;
+	letter-spacing: 2px;
+}
+h4{
+	font-family: "Lora", serif;
+	font-size: 20px;
+}
+p{
+	font-family: "Merriweather", serif;
+	font-size: 15px;
+	line-height: 20px;
+}
+.about{
+	background-color: #fadadd;
+	height: 550px;
+}
+.about h3{
+	margin-left: 100px;
+}
+.about h2{
+	padding-top: 50px;
+	margin-left: 100px;
+}
+.about p{
+	width: 520px;
+	margin-top: 20px;
+	margin-left: 100px;
+}
+.why{
+	background-color: #212b31;
+	height: 550px;
+}
+.why img{
+	float: right;
+	padding-top: 100px;
+	padding-right: 100px;
+}
+.why p{
+	color: white;
+	width: 500px;
+	font-size: 16px;
+	padding-left: 100px;
+	padding-top: 20px;
+
+}
+.why h4{
+	color: white;
+	padding-left: 100px;
+	padding-top: 100px;
+}
+.why h2{
+	color: white;
+	padding-left: 100px;
+	padding-top: 130px;
+}
+.values{
+		background-color: #fadadd;
+	height: 670px;
+}
+.values h2{
+	text-align: center;
+	padding-top: 30px;
+}
+.values h3{
+	text-align: center;
+}
+.values h4{
+}
+
+.values p{
+	width: 450px;
+	padding-top: 30px;
+	font-size: 15px;
+}
+.top{
+	display: table-row;
+}
+.top .resolve{
+	display: table-cell;
+	padding-left: 200px;
+	padding-top: 50px;
+}
+.top .caring {
+	display: table-cell;
+	padding-left: 150px;
+}
+.middle{
+	display: table-row;
+}
+.middle .authentic {
+	display: table-cell;
+	padding-top: 50px;
+	padding-left: 200px;
+}
+.unique{
+	display: table-cell;
+	padding-left: 150px;
+	padding-top: 50px;
+}
+.thirsty{
+	padding-left: 200px;
+	padding-top: 50px;
+}

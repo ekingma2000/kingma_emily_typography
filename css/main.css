@@ -31,7 +31,7 @@ p{
 }
 /*About Section*/
 .about{
-	background-color: #fadadd;
+	background-color: #f1e0d0;
 	height: 550px;
 }
 .about h3{
@@ -76,7 +76,7 @@ p{
 }
 /*Our Values Section*/
 .values{
-		background-color: #fadadd;
+		background-color: #f1e0d0;
 	height: 670px;
 }
 .values h2{
@@ -131,10 +131,10 @@ p{
 .beer h2{
 	color: white;
 	text-align: center;
-	padding-top: 80px
+	padding-top: 80px;
 }
 .theBeers{
-	background-color: #fadadd;
+	background-color: #f1e0d0;
 	height: 1000px;
 }
 .theBeers img{
@@ -158,4 +158,24 @@ p{
 .theBeers .columnThree{
 	display: table-cell;
 	padding-left: 70px;
+}
+/*Contact Us Section*/
+.contact{
+	background-color: #212b31;
+	height: 200px;
+}
+.contact h2{
+	color: white;
+	text-align: center;
+	padding-top: 80px;
+}
+.info {
+	background-color: #f1e0d0;
+	height: 400px;
+	padding-left: 100px;
+	padding-top: 50px;
+}
+.info p{
+	width:520px;
+	padding-top: 20px;
 }
